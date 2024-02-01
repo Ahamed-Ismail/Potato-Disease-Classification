@@ -1,0 +1,6 @@
+/build
+/dist
+/venv
+/Potato_disease_classification.egg-info
+/__pycache__
+/dataset
